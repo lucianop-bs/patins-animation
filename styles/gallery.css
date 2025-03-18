@@ -101,3 +101,26 @@ section.gallery {
     transform: translateY(100%);
   }
 }
+
+@media (width <= 22.5rem) {
+  section.gallery {
+    padding: 1.5rem;
+    & header span {
+      font-size: 0.75rem;
+    }
+    & header h2 {
+      font-size: 1.5rem;
+    }
+
+    & .content {
+      display: flex;
+      flex-direction: column;
+      gap: 1.5rem;
+
+      & img {
+        width: 100%;
+        height: 16rem;
+      }
+    }
+  }
+}

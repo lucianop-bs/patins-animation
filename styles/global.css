@@ -53,3 +53,13 @@ a {
   color: inherit;
   text-decoration: none;
 }
+
+@media (width <= 22.5rem) {
+  h1 {
+    font-size: 2rem;
+  }
+
+  h2 {
+    font: 700 1.5rem/1.2;
+  }
+}
