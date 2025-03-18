@@ -83,7 +83,6 @@ section.hero {
     width: 100%;
     max-width: 30.5rem;
     height: 30.5rem;
-    border: 2px solid green;
 
     & .content {
       width: 100%;
