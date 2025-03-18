@@ -54,7 +54,7 @@ a {
   text-decoration: none;
 }
 
-@media (width <= 22.5rem) {
+@media (width <= 25rem) {
   h1 {
     font-size: 2rem;
   }

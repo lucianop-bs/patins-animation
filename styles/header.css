@@ -43,9 +43,9 @@ header.top {
   }
 }
 
-@media (width<=22.5rem) {
+@media (width<=25rem) {
   header.top {
-    max-width: 22.5rem;
+    max-width: 25rem;
     padding: 0.75rem 1.5rem;
   }
 }
