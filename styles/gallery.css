@@ -102,7 +102,7 @@ section.gallery {
   }
 }
 
-@media (width <= 22.5rem) {
+@media (width <= 37.5rem) {
   section.gallery {
     padding: 1.5rem;
     & header span {

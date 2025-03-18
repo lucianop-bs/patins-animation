@@ -95,7 +95,7 @@ footer {
   }
 }
 
-@media (width <= 25rem) {
+@media (width <= 37.5rem) {
   footer {
     display: flex;
     flex-direction: column;
